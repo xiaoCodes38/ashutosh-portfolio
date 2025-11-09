@@ -9,26 +9,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://forthebadge.com">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  </a>
-  &nbsp;
-  <a href="https://forthebadge.com">
-    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"/>
-  </a>
-  &nbsp;
-  <a href="https://forthebadge.com">
-    <img src="https://forthebadge.com/images/badges/open-source.svg"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/xiaoCodes38/ashutosh-portfolio?color=purple&logo=github&style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/forks/xiaoCodes38/ashutosh-portfolio?color=purple&logo=github&style=for-the-badge"/>
-</p>
-
----
-
 ### 🧭 About This Project
 
 A modern, responsive, and data-driven **portfolio website** showcasing my experience as a **Software Engineer** with expertise in **Full Stack Development, Cloud Infrastructure, Test Automation, and Machine Learning**.
