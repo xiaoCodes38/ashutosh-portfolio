@@ -19,22 +19,22 @@ The site reflects my professional journey, skill radar, selected projects, and i
 
 ### 🧰 Built With
 
-- ⚛️ **React.js** — for dynamic and component-driven UI  
-- 🐳 **Docker & AWS** — for scalable deployment and cloud readiness  
-- 🧠 **Recharts & ML Libraries** — for skill radar and analytics visualization  
-- 🧪 **Selenium, Cypress, Jenkins** — integrated to highlight automation focus  
-- 🎨 **React-Bootstrap + Custom CSS3** — for elegant, responsive design  
-- ☁️ **Vercel** — for seamless CI/CD hosting  
+- ⚛️ **React.js** — for dynamic and component-driven UI
+- 🐳 **Docker & AWS** — for scalable deployment and cloud readiness
+- 🧠 **Recharts & ML Libraries** — for skill radar and analytics visualization
+- 🧪 **Selenium, Cypress, Jenkins** — integrated to highlight automation focus
+- 🎨 **React-Bootstrap + Custom CSS3** — for elegant, responsive design
+- ☁️ **Vercel** — for seamless CI/CD hosting
 
 ---
 
 ### ✨ Features
 
-- 🎯 **Personalized Design:** Built from scratch to represent my engineering style  
-- 🧠 **Interactive Tech Radar:** Visual summary of my core technical domains  
-- 📂 **Project Highlights:** Showcasing real-world software and research work  
-- 💡 **Modern UI/UX:** Smooth animations, dark theme, and performance-optimized  
-- 🔄 **Responsive Layout:** Fully mobile, tablet, and desktop optimized  
+- 🎯 **Personalized Design:** Built from scratch to represent my engineering style
+- 🧠 **Interactive Tech Radar:** Visual summary of my core technical domains
+- 📂 **Project Highlights:** Showcasing real-world software and research work
+- 💡 **Modern UI/UX:** Smooth animations, dark theme, and performance-optimized
+- 🔄 **Responsive Layout:** Fully mobile, tablet, and desktop optimized
 
 ---
 
@@ -55,4 +55,3 @@ The site reflects my professional journey, skill radar, selected projects, and i
 </p>
 
 ---
-
