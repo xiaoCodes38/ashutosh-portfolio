@@ -3,10 +3,6 @@
   <a href="https://ashutosh-portfolio-nine.vercel.app/" target="_blank">Click for Demo</a>
 </h2>
 
-<div align="center">
-  <img alt="Portfolio Demo" src="./Images/portfolio-preview.png" width="800"/>
-</div>
-
 <br/>
 
 ### 🧭 About This Project
